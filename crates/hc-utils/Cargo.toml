@@ -20,4 +20,3 @@ name = "hc_utils"
 path = "src/lib.rs"
 # "cargo test --doc" doctests are not performed with the "cdylib" crate-type
 crate-type = ["cdylib", "rlib"]
-g
